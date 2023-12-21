@@ -1,1 +1,1 @@
-FROM quay.io/cilium/operator:v1.14.4
+FROM minio/operator:v5.0.11
