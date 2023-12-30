@@ -1,1 +1,1 @@
-FROM minio/operator:v5.0.11
+FROM minio/operator:v4.5.8
